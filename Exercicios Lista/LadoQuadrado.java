@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BemVindo {
+public class LadoQuadrado {
 
   public static void main (String[] args){
     
